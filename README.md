@@ -10,6 +10,11 @@ Uses a frameless translucent popup with `QPainter`-drawn rounded corners and sof
 ![Python](https://img.shields.io/badge/Python-%E2%89%A5%203.10-blue)
 ![License](https://img.shields.io/badge/License-MIT-green)
 
+![Light Mode](ex_wm)
+
+
+![Light Mode](ex_dm)
+
 ## Features
 
 - **Pixel-perfect rounded corners** — pure `QPainter`, no QSS artefact bleeding
